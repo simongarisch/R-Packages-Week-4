@@ -1,0 +1,19 @@
+Package: buildingRpackages4
+Type: Package
+Title: Part of Coursera building R packages week 4
+Version: 0.1.0
+Author: Simon Garisch
+Maintainer: Simon Garisch <simon.garisch@gmail.com>
+Description: This is the week 4 assignment of Coursera's building R packages
+Encoding: UTF-8
+LazyData: FALSE
+RoxygenNote: 6.0.1
+Suggests: 
+    dyplr,
+    tidyr,
+    readr,
+    maps,
+    knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
