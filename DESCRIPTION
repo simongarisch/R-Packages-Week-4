@@ -10,7 +10,7 @@ Encoding: UTF-8
 LazyData: FALSE
 RoxygenNote: 6.0.1
 Suggests: 
-    dyplr,
+    dplyr,
     tidyr,
     readr,
     maps,
